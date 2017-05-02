@@ -1,10 +1,9 @@
 .big {
   width: 800px;
   height: 500px;
-  background-color: yellow;
+  margin-top: 90px;
   margin-left: auto;
   margin-right: auto;
-  display: inline-block;
   font-size: 0;
 }
 
@@ -14,9 +13,9 @@
 
 }
 
-.container{
-    display: inline-block;
-   font-size: 0;
+.container {
+   display: inline-block;
+  font-size: 0;
 }
 .a {
    height: 200px;
